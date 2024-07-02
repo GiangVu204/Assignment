@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/font/Single_Day/OFL.txt",
+      "sha1": "2f6e7ad287eb15a799f6cbb20524e452241b1fd2"
+    },
+    {
+      "path": "src/font/Single_Day/SingleDay-Regular.ttf",
+      "sha1": "65ea3c403dcb3887ca9ffd971645efddf1a60f5a"
+    }
+  ]
+}
